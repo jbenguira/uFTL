@@ -5,3 +5,5 @@ Use your hardware resources up to 100x more efficiently. µFTL can be used as a 
 Source code coming soon ...
 
 Live test url: https://vms2.terasp.net/
+
+Process 750K+ requests per second per server
