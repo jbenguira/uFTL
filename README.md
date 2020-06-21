@@ -1,9 +1,4 @@
-# µFTL: a fast web application server for Node.js
+### IMPORTANT
 
-Use your hardware resources up to 100x more efficiently. µFTL can be used as a load balancer, a firewall, a DDOS protection layer, an in-memory cache, an api gateway and a serverless runtime for Node.js. Can be scaled horizontally by adding more nodes in cluster mode.
-
-Source code is coming soon ... :)
-
-Live test url: https://vms2.terasp.net/
-
-Process 750K+ requests per second per server
+This project have been merged into:
+https://github.com/elestio/cloudgate
